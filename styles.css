@@ -61,3 +61,11 @@ body {
   cursor: pointer;
   background-color: #aaa777;
 }
+
+.x {
+  background-color: red;
+}
+
+.o {
+  background-color: blue;
+}
